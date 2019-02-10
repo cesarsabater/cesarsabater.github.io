@@ -1,0 +1,36 @@
+
+body {
+/*
+	background-color: orange;
+*/
+/*
+	color: blue;
+*/
+	font-size: 15pt;
+	background-attachment: fixed;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#main {
+    background-color: orange;
+/*
+    background-color: #E2FF4C;
+*/
+	width: 800; 
+/*
+	height: 600; 
+*/
+	border: 0px; 
+	margin: 10px auto; 
+	padding: 10px;
+}
+
+#photogallery {
+text-align: center;
+}
+
+#headtable { 
+/*
+ background-color: orange;
+*/
+ }
